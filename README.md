@@ -1,4 +1,4 @@
-# money_app
+# SheHacks Hackathon: Wo/Money App
 
 A new Flutter application.
 
